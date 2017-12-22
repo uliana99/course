@@ -1,11 +1,9 @@
-//  INSERTION_SORT.HPP
-
 /*!
     \file
-    \brief Заголовочный файл print.hpp
+    \brief Заголовочный insertion.hpp
     \author Автор
     \date  2017 года
-    Декларация функций bubble_sort и messageBubble
+    \Декларация функций insertsort и messageInsertsort
 */
 #ifndef _INSERTION_HPP_
 #define _INSERTION_HPP_
@@ -47,3 +45,4 @@ void messageInsertsort(int arr[], int size) {
 }
 
 #endif  // _INSERTION_HPP_
+//  INSERTION_SORT.HPP

@@ -1,11 +1,9 @@
-//  BUBBLE_SORT.HPP
-
 /*!
     \file
-    \brief Заголовочный файл print.hpp
+    \brief Заголовочный файл bubble.hpp
     \author Автор
     \date  2017 года
-    Декларация функций bubble_sort и messageBubble
+    \Декларация функций bubble_sort и messageBubble
 */
 #ifndef _BUBBLE_HPP_
 #define _BUBBLE_HPP_
@@ -44,3 +42,5 @@ void messageBubble(int arr[], int size) {
 }
 
 #endif  // _BUBBLE_HPP_
+//  BUBBLE_SORT.HPP
+

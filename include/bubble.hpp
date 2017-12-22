@@ -1,10 +1,11 @@
 //  BUBBLE_SORT.HPP
 
-/*! 
+/*!
     \file
     \brief Заголовочный файл print.hpp
-    Декларация
-
+    \author Автор
+    \date  2017 года
+    Декларация функций bubble_sort и messageBubble
 */
 #ifndef _BUBBLE_HPP_
 #define _BUBBLE_HPP_

@@ -32,9 +32,9 @@ void bubble_sort(int arr[], int arr_size){
 }
 
 /*!
-Функция вывода (2)
-\param[in] arr[]
-\param[in] size
+Функция messageBubble (2)
+\param[in] arr[] - массив
+\param[in] size - размер
 */
 void messageBubble(int arr[], int size) {
     for (int i = 0; i < size; i++) {
